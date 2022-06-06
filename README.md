@@ -155,7 +155,7 @@ MyCellType.prototype.paint = function(ctx, value, x, y, w, h, style, options) {
 
 [SpreadJS](https://www.grapecity.com.cn/developer/spreadjs) 是一款基于 HTML5 的纯前端表格控件，兼容 450 多种 Excel 公式，具备“高性能、跨平台、与 Excel 高度兼容”的产品特性。使用 SpreadJS，可直接在 Angular、 React、 Vue 等前端框架中实现高效的模板设计、在线编辑和数据绑定等功能，为最终用户提供高度类似 Excel 的使用体验。
 
-[![输入图片说明](%E5%9B%BE%E7%89%8722.jpg)](https://www.grapecity.com.cn/developer/spreadjs/demo)
+
 
 
 
